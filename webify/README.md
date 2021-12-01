@@ -27,7 +27,7 @@ webify会自动拉取gitee项目，选择自己的项目并进行创建及构建
 ![image](./static/12.png)
 ![image](./static/13.png)
 ![image](./static/14.png)
-webify发布会需要时间，发布成功后立即返回会404需等待发布完成，点击webify分配给我们的域名即可访问应用
+webify发布会需要时间，发布成功后，如果直接点url会返回404。需等待发布完成，点击webify分配给我们的域名即可访问应用
 ![image](./static/15.png)
 ![image](./static/16.png)
 ![image](./static/16-2.png)
