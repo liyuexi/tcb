@@ -1,4 +1,5 @@
 # tcb
 腾讯/微信云开发
 
-### 腾讯云webify应用托管
+# 教程
+[腾讯云webify应用托管教程](/webify/README.md)
